@@ -1,6 +1,6 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "test-monorepo123456789"
-main = ".worker-next/index.mjs"
+main = "worker.js"
 
 compatibility_date = "2024-09-26"
 compatibility_flags = ["nodejs_compat"]
