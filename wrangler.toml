@@ -8,4 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 # Minification helps to keep the Worker bundle size down and improve start up time.
 minify = true
 
+[vars]
+API_HOST = "example.com"
+API_ACCOUNT_ID = "example_user"
 
